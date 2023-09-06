@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Jogo_Velha_Ultimate\Jogo_Velha_Ultimate\bin\Debug\Jogo_Velha_Ultimate.exe.config
+C:\Users\User\source\repos\Jogo_Velha_Ultimate\Jogo_Velha_Ultimate\bin\Debug\Jogo_Velha_Ultimate.exe
+C:\Users\User\source\repos\Jogo_Velha_Ultimate\Jogo_Velha_Ultimate\bin\Debug\Jogo_Velha_Ultimate.pdb
+C:\Users\User\source\repos\Jogo_Velha_Ultimate\Jogo_Velha_Ultimate\obj\Debug\Jogo_Velha_Ultimate.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Jogo_Velha_Ultimate\Jogo_Velha_Ultimate\obj\Debug\Jogo_Velha_Ultimate.Form1.resources
+C:\Users\User\source\repos\Jogo_Velha_Ultimate\Jogo_Velha_Ultimate\obj\Debug\Jogo_Velha_Ultimate.Properties.Resources.resources
+C:\Users\User\source\repos\Jogo_Velha_Ultimate\Jogo_Velha_Ultimate\obj\Debug\Jogo_Velha_Ultimate.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Jogo_Velha_Ultimate\Jogo_Velha_Ultimate\obj\Debug\Jogo_Velha_Ultimate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Jogo_Velha_Ultimate\Jogo_Velha_Ultimate\obj\Debug\Jogo_Velha_Ultimate.exe
+C:\Users\User\source\repos\Jogo_Velha_Ultimate\Jogo_Velha_Ultimate\obj\Debug\Jogo_Velha_Ultimate.pdb
